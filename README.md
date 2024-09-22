@@ -1,4 +1,9 @@
-[![Latest Stable Version](http://poser.pugx.org/web-builder-sdk/web-builder-language/v)](https://packagist.org/packages/web-builder-sdk/web-builder-language) [![Total Downloads](http://poser.pugx.org/web-builder-sdk/web-builder-language/downloads)](https://packagist.org/packages/web-builder-sdk/web-builder-language) [![Latest Unstable Version](http://poser.pugx.org/web-builder-sdk/web-builder-language/v/unstable)](https://packagist.org/packages/web-builder-sdk/web-builder-language) [![License](http://poser.pugx.org/web-builder-sdk/web-builder-language/license)](https://packagist.org/packages/web-builder-sdk/web-builder-language) [![PHP Version Require](http://poser.pugx.org/web-builder-sdk/web-builder-language/require/php)](https://packagist.org/packages/web-builder-sdk/web-builder-language)
+[![Latest Stable Version](https://img.shields.io/packagist/v/web-builder-sdk/web-builder-language.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/web-builder-language)
+[![Total Downloads](https://img.shields.io/packagist/dt/web-builder-sdk/web-builder-language.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/web-builder-language)
+[![Daily Downloads](https://img.shields.io/packagist/dd/web-builder-sdk/web-builder-language.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/web-builder-language)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/web-builder-sdk/web-builder-language.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/web-builder-language)
+[![License](https://img.shields.io/packagist/l/web-builder-sdk/web-builder-language.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/web-builder-language)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/web-builder-sdk/web-builder-language/php)](https://packagist.org/packages/web-builder-sdk/web-builder-language)
 
 # Web Builder SDK - Language Pack
 
